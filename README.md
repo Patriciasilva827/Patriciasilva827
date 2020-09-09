@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, eu sou Patrícia Silva.
 
-<!--
-**Patriciasilva827/Patriciasilva827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eu sou apaixonada por desenvolvimento de sites!
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Patriciasilva827/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:contato1.patriciasilva@gmail.com)
 
-Here are some ideas to get you started:
+Desenvolvedora Front-end e Designer Digital em São Paulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+E Desenhista nos tempos livres.
+
+## Minhas Habilidades:
+- HTML
+- CSS
+- Javascript
